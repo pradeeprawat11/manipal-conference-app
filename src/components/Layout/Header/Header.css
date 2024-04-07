@@ -1,0 +1,25 @@
+.logo_container {
+    width: 8rem;
+    height: 3rem;
+}
+
+#eiii_logo_container {
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+}
+
+.mobile_menu_container {
+    border-top: 2px solid white;
+}
+
+.navItem {
+    transition: color 0.3s ease-in-out 0s;
+}
+
+.navItem:hover {
+    color: #fba504;
+}
+
+.color_secondary {
+    color: #fba504;
+}
